@@ -25,7 +25,9 @@
     color: white;
     font-size: 20px;
 }
-
+#about-section{
+    height: 490px;
+}
 .div_Labels{
     width: 70%;
     height: 300px;
