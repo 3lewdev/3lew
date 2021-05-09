@@ -94,3 +94,10 @@
     }
  
 }
+@media screen and (max-width:399px) and (min-width:320px){
+    .cont img{
+        width: 45px;
+        height: 40px;
+    }
+ 
+}
