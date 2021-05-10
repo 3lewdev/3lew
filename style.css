@@ -14,6 +14,9 @@
     height: 554px;
     background-color: black;
 }
+#about-section{
+    height: 490px;
+}
 .text_head{
     width: 100%;
     height: 220px;
@@ -25,9 +28,7 @@
     color: white;
     font-size: 20px;
 }
-#about-section{
-    height: 490px;
-}
+
 .div_Labels{
     width: 70%;
     height: 300px;
@@ -89,7 +90,7 @@
 }
 @media screen and (max-width:699px) and (min-width:400px){
     .cont img{
-        width: 30px;
+        width: 35px;
         height: 40px;
     }
  
